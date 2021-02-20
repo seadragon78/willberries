@@ -1,4 +1,4 @@
-# Willberries - Учебный преокт в Glo Academy
+# Willberries - Учебный проект в Glo Academy
 Выполнил Фёдоров Артём
 ## В проекте использовались языки:
 - HTML
