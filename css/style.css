@@ -55,7 +55,9 @@ body {
 .slide-3 {
   background: green url("../img/Slide-img-1.png") no-repeat top right 25%;
 }
-
+.swiper__container {
+    overflow: hidden;
+}
 .slide {
   padding-top: 90px;
   padding-bottom: 100px;
